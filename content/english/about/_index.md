@@ -28,6 +28,8 @@ Education: Bachelor
 
 Illustration, poster, animation, VI Design, Book Design, Font Design, logo Design, Modeling, printing, Photography
 
+<hr>
+
 ### Software Skill
 
 Ai,Ps,Ae,C4D
