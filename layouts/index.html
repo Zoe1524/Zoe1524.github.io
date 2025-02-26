@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <!-- Art work -->
+
+
+<section class="section pt-14">
+  <div class="container">
+    <h1 class="mb-4 text-h3 lg:text-h1 text-center mb-8">
+      Art Work
+    </h1>
+    <div class="row items-center justify-between">
+      <div class="md:col-6 lg:col-6 mb-8">
+          {{ partial "image" (dict "Src" "/images/zoe/a1.jpg" "Alt" "art work"  ) }}
+      </div>
+      <div class="md:col-6 lg:col-6 mb-8">
+        {{ partial "image" (dict "Src" "/images/zoe/a4.jpg" "Alt" "art work"  ) }}
+      </div>
+      <div class="md:col-6 lg:col-6 mb-8">
+        {{ partial "image" (dict "Src" "/images/zoe/a3.jpg" "Alt" "art work"  ) }}
+      </div>
+      <div class="md:col-6 lg:col-6 mb-8">
+        {{ partial "image" (dict "Src" "/images/zoe/a2.jpg" "Alt" "art work"  ) }}
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}
