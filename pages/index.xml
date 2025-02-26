@@ -1,4 +1,161 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Hugoplate</title><link>https://zoe1524.github.io/pages/</link><description>Recent content in Pages on Hugoplate</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://zoe1524.github.io/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Elements</title><link>https://zoe1524.github.io/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/elements/</guid><description>&lt;details class="table-of-content ">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Zoe</title><link>https://zoe1524.github.io/pages/</link><description>Recent content in Pages on Zoe</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://zoe1524.github.io/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>3D</title><link>https://zoe1524.github.io/3d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/3d/</guid><description>&lt;h4 id="3d">3D&lt;/h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ &lt;strong style="display: inline-block; margin-top:15px">
+ Nothing to show in [https://zoe1524.github.io/&lt;span style="color:red">
+ images/zoe/3d
+ &lt;/span>
+ ] or folder does not exist
+ &lt;/strong></description></item><item><title>Animation</title><link>https://zoe1524.github.io/animation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/animation/</guid><description>&lt;h4 id="animation">Animation&lt;/h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title="image title"
+ loading="lazy"
+ decoding="async"
+ class="img img-fluid img-center"
+ width=""
+ height=""
+ src="https://zoe1524.github.io/images/zoe/animation/a1.gif"
+ alt="alter-text"
+ onerror="this.onerror='null';this.src=''" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+ &lt;script>
+ window.addEventListener("load", (e) => {
+ const lightbox = GLightbox();
+ });
+ &lt;/script>
+
+
+&lt;hr>
+&lt;h3 id="outcome">Outcome&lt;/h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+ &lt;video
+ width="100%"
+ height="auto"
+ 
+ 
+ 
+ controls
+ 
+ class="rounded-lg"
+ style="max-width:100%">
+ &lt;source src="https://zoe1524.github.io/images/zoe/animation/outcome.mp4" type="video/mp4" />
+ Your browser does not support the video tag.
+ &lt;/video></description></item><item><title>Elements</title><link>https://zoe1524.github.io/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/elements/</guid><description>&lt;details class="table-of-content ">
  &lt;summary>
  
  Table of Contents
@@ -40,5 +197,9 @@
 &lt;/nav>
 &lt;/details>
 
-&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item><item><title>Privacy</title><link>https://zoe1524.github.io/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors">Responsibility of Contributors&lt;/h4>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p></description></item></channel></rss>
+&lt;p>Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code>#&lt;/code> for heading 1 and use &lt;code>######&lt;/code> for heading 6.&lt;/p></description></item><item><title>Lion Dance bo</title><link>https://zoe1524.github.io/character/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/character/</guid><description>&lt;h3 id="lion-dance-bo">Lion Dance bo&lt;/h3>
+&lt;p>Design concept:&lt;/p>
+&lt;p>Combined with the way of the head, the&amp;quot;lion&amp;quot; element is extracted, and the basic form composition law of the shape is Analyzed. Taking the lion head as the basic component of the modern IP image conforms to people&amp;rsquo;s general understanding of the lion. Using the &amp;ldquo;borrower&amp;rdquo; lion IP image to &amp;ldquo;cute&amp;rdquo; redesign,the lion dance shape and the modern public image together, So that the ilon closer to the Public litestyle.&lt;/p></description></item><item><title>Privacy</title><link>https://zoe1524.github.io/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors">Responsibility of Contributors&lt;/h4>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p></description></item><item><title>Work</title><link>https://zoe1524.github.io/work/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/work/</guid><description>&lt;h3 id="music-festival">Music festival&lt;/h3>
+&lt;p>Design concept&lt;/p>
+&lt;p>In addition to the bright basic color with black advanced and create a strong design impact,the color level change t o break the main visual depression,the overall use of a lot of music-related elements,CD,audio equipment, etc,people can&amp;rsquo;t wait to join the music festival atmosphere, causing the common love of music people resonate.&lt;/p></description></item></channel></rss>
