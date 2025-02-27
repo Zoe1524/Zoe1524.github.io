@@ -20,7 +20,6 @@
 
 
 
- 
  &lt;div
  class=" gallery 
  zoomable
@@ -30,84 +29,20 @@
  
  
  
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
  
  
 
-
+ &lt;div class="gallery-item" data-i="false">
  
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
-
-
- 
-
-
- 
- 
- 
- 
-
- &lt;div class="gallery-item">
- 
- &lt;a
- href="https://zoe1524.github.io/images/zoe/3d/2.png"
- style="display: block;"
- class="glightbox">
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/2.png" style="display: block;" class="glightbox">
  &lt;img
  loading="lazy"
- src="https://zoe1524.github.io/images/zoe/3d/2_hu_aa3027fc142ff217.png"
+ src="https://zoe1524.github.io/images/zoe/3d/2.png"
  class="img"
  style="margin: 0;"
  alt="2.png"
- onerror="this.onerror='null';this.src='\/images\/zoe\/3d\/2_hu_aa3027fc142ff217.png'" />
+ height="400"
+ width="400" />
  &lt;/a>
  
  &lt;/div>
@@ -117,84 +52,21 @@
  
  
  
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
  
  
  
 
-
+ &lt;div class="gallery-item" data-i="false">
  
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
-
-
- 
-
-
- 
- 
- 
- 
-
- &lt;div class="gallery-item">
- 
- &lt;a
- href="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%201_011.png"
- style="display: block;"
- class="glightbox">
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%201_011.png" style="display: block;" class="glightbox">
  &lt;img
  loading="lazy"
- src="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%201_011_hu_3a4065c905bb019b.png"
+ src="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%201_011.png"
  class="img"
  style="margin: 0;"
  alt="tbrender_Camera 1_011.png"
- onerror="this.onerror='null';this.src='\/images\/zoe\/3d\/tbrender_Camera%201_011_hu_3a4065c905bb019b.png'" />
+ height="400"
+ width="400" />
  &lt;/a>
  
  &lt;/div>
@@ -204,84 +76,21 @@
  
  
  
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
  
  
  
 
-
+ &lt;div class="gallery-item" data-i="false">
  
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
-
-
- 
-
-
- 
- 
- 
- 
-
- &lt;div class="gallery-item">
- 
- &lt;a
- href="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%202_009.png"
- style="display: block;"
- class="glightbox">
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%202_009.png" style="display: block;" class="glightbox">
  &lt;img
  loading="lazy"
- src="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%202_009_hu_bfdbdfc412ec36b6.png"
+ src="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%202_009.png"
  class="img"
  style="margin: 0;"
  alt="tbrender_Camera 2_009.png"
- onerror="this.onerror='null';this.src='\/images\/zoe\/3d\/tbrender_Camera%202_009_hu_bfdbdfc412ec36b6.png'" />
+ height="400"
+ width="400" />
  &lt;/a>
  
  &lt;/div>
@@ -291,221 +100,30 @@
  
  
  
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
  
  
  
 
-
+ &lt;div class="gallery-item" data-i="false">
  
- 
- 
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
-
-
- 
-
-
- 
- 
- 
- 
-
- &lt;div class="gallery-item">
- 
- &lt;a
- href="https://zoe1524.github.io/images/zoe/3d/untitled.png"
- style="display: block;"
- class="glightbox">
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/untitled.png" style="display: block;" class="glightbox">
  &lt;img
  loading="lazy"
- src="https://zoe1524.github.io/images/zoe/3d/untitled_hu_e18339cdfec4472f.png"
+ src="https://zoe1524.github.io/images/zoe/3d/untitled.png"
  class="img"
  style="margin: 0;"
  alt="untitled.png"
- onerror="this.onerror='null';this.src='\/images\/zoe\/3d\/untitled_hu_e18339cdfec4472f.png'" />
+ height="400"
+ width="400" />
  &lt;/a>
  
  &lt;/div>
  
  
  
- &lt;/div></description></item><item><title>Animation</title><link>https://zoe1524.github.io/animation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/animation/</guid><description>&lt;h4 id="animation">Animation&lt;/h4>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
-
- 
-
-
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- &lt;img
- title="image title"
- loading="lazy"
- decoding="async"
- class="img img-fluid img-center"
- width=""
- height=""
- src="https://zoe1524.github.io/images/zoe/animation/a1.gif"
- alt="alter-text"
- onerror="this.onerror='null';this.src=''" />
- 
- 
-
- 
- 
-
-
-
-
-
-
- &lt;script>
- window.addEventListener("load", (e) => {
- const lightbox = GLightbox();
- });
- &lt;/script>
-
-
-&lt;hr>
-&lt;h3 id="outcome">Outcome&lt;/h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-
- &lt;video
- width="100%"
- height="auto"
- 
- 
- 
- controls
- 
- class="rounded-lg"
- style="max-width:100%">
- &lt;source src="https://zoe1524.github.io/images/zoe/animation/outcome.mp4" type="video/mp4" />
- Your browser does not support the video tag.
- &lt;/video></description></item><item><title>Elements</title><link>https://zoe1524.github.io/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/elements/</guid><description>&lt;details class="table-of-content ">
+ &lt;/div></description></item><item><title>Animation</title><link>https://zoe1524.github.io/animation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/animation/</guid><description>&lt;h4 id="protect-the-ocean">Protect the ocean&lt;/h4>
+&lt;p>Design concept&lt;/p>
+&lt;p>The character serves as the core of the design, symbolizing the close connection between humans and the ocean. The interior of the outline is filled with Marine life, implying the indivisibility of human life and Marine ecology. The combination of whales, dolphins, fish, seaweed and other diverse Marine life shows the rich diversity and complexity of the Marine ecosystem. The creatures are predominantly blue in color, emphasizing the vastness and depth of the ocean. “Where did my home go?” This thought-provoking text implies that Marine life is facing a crisis of survival due to human activities, and inspires people to pay attention to and think about Marine protection issues.&lt;/p></description></item><item><title>Elements</title><link>https://zoe1524.github.io/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/elements/</guid><description>&lt;details class="table-of-content ">
  &lt;summary>
  
  Table of Contents
