@@ -13,3 +13,11 @@
     left: 1rem;
     font-weight: bold;
 }
+
+
+/* 非手机 */
+@media (min-width: 461px) {
+    .zodiac-list-item .gallery-item {
+        width: 20% !important;
+    }
+}

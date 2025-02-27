@@ -28,7 +28,7 @@ Design concept
 The culture of the zodiac has a long history, and in the long history,it carries the simple desire of the working people of the Chinese nation. Inheritance is still a very important method of dating, so I design and depict the 12 animals based on their different personalities, combining modern art with traditional culture,paying tribute to tradition, and giving them the function of current trend culture.
 
 
-{{< gallery dir="images/zoe/work2" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/zoe/work2" class="zodiac-list-item" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
 
