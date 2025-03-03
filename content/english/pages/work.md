@@ -6,6 +6,46 @@ meta_title: ""
 description: "This is my work"
 # save as draft
 draft: false
+
+image_list:
+  
+  - path: "images/zoe/work2/1-shu.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/2-niu.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/3-hu.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/4-tu.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/5-long.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/6-she.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/7-ma.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/8-yang.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/9-hou.jpg"
+    title: ""
+ 
+  - path: "images/zoe/work2/10-ji.jpg"
+    title: ""
+   
+  - path: "images/zoe/work2/11-gou.jpg"
+    title: ""
+   
+  - path: "images/zoe/work2/12-zhu.jpg"
+    title: ""
+   
+
 ---
 
 
@@ -28,11 +68,11 @@ Design concept
 The culture of the zodiac has a long history, and in the long history,it carries the simple desire of the working people of the Chinese nation. Inheritance is still a very important method of dating, so I design and depict the 12 animals based on their different personalities, combining modern art with traditional culture,paying tribute to tradition, and giving them the function of current trend culture.
 
 
-{{< gallery dir="images/zoe/work2" class="zodiac-list-item" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< imgCircleList   height="250" width="185"  translateZ="320"   >}}
 
 
 
-
+### &nbsp;
 ### Other paintings
 
 {{< gallery dir="images/zoe/work3" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

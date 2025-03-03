@@ -1,5 +1,8 @@
 <!-- get value from params -->
 
+
+
+
 {{ $folderDir:= .Get "dir" }}
 {{ $class:= .Get "class" }}
 {{ $height:= replace (replace (.Get "height") "px" "") "x" "" }}
@@ -19,11 +22,11 @@
 
 
 {{/*{{ $page.Params }}*/}}
-
-
+{{ $imageListVar := .Get "image_list_var" | default "image_list" }}
+{{ $imageList := index $page.Params $imageListVar }}
 
 <div class="gallery zoomable">
-    {{ range $page.Params.image_list }}
+    {{ range $imageList }}
         {{ $image := resources.Get .path }}
         {{/*{{ $image := relLangURL .path }}*/}}
         {{ partial "image-pipe.html" (dict "Context" $scratch "Height" $height "Width" $width "Command" $command "Webp" $webp "Image" $image "Option" $option "Zoomable" $zoomable "Resize" $resize) }}

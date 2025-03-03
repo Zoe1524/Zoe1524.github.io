@@ -6,6 +6,24 @@ meta_title: ""
 description: "This is meta description"
 # save as draft
 draft: false
+
+
+image_list:
+
+  - path: "images/zoe/img-circle/an1.jpg"
+    title: ""
+ 
+  - path: "images/zoe/img-circle/an2.jpg"
+    title: ""
+ 
+  - path: "images/zoe/img-circle/an3.jpg"
+    title: ""
+ 
+  - path: "images/zoe/img-circle/an4.jpg"
+    title: ""
+ 
+
+
 ---
 
 #### Protect the ocean
@@ -28,3 +46,10 @@ My idea is to make an animated video to introduce the exchange of goods along th
 By telling stories and providing relevant and important information, the whole process is wrapped around to introduce and understand this important route to all.
 
 {{< video src="images/zoe/animation/outcome.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+
+
+<hr>
+
+#### Animation
+
+{{< imgCircleList   height="250" width="380"  translateZ="200"   >}}
