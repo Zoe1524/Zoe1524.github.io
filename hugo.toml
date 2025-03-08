@@ -66,6 +66,7 @@ target = 'assets/notwatching/hugo_stats.json'
 ############################# Outputs ############################
 [outputs]
 home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
+#home = ["HTML", "RSS", "WebAppManifest", "SearchIndex", "TomJson"]
 
 ############################# Imaging ############################
 [imaging]
@@ -117,6 +118,12 @@ mediaType = "application/json"
 baseName = "searchindex"
 isPlainText = true
 notAlternative = true
+
+#[outputFormats.TomJson]
+#mediaType = "application/json"
+#baseName = "tomJson"
+#isPlainText = true
+#notAlternative = true
 
 
 ############################# Plugins ##############################

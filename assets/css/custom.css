@@ -20,4 +20,14 @@
     .zodiac-list-item .gallery-item {
         width: 20% !important;
     }
+
+
+    .home-circle-img-flat-list .gallery-item {
+        width: 30% !important;
+    }
 }
+
+.gallery-item {
+    /*background-color: unset !important;*/
+}
+

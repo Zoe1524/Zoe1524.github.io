@@ -9,7 +9,16 @@
     overflow: hidden;
     margin: 0 auto;
 
+
+
     background-color: #000;
+    background-image: url("/images/zoe/img-circle/bgs/bg1.jpg");
+    background-repeat:  no-repeat ;
+    background-size:  cover ;
+
+
+
+
     /* 视距 让元素看起来更有3D效果 */
     perspective: 900px;
 }
@@ -100,4 +109,10 @@
     100% {
         transform: rotateY(360deg);
     }
+}
+
+
+
+.circle-img-flat-list {
+    margin-top: 1.5rem;
 }

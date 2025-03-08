@@ -66,5 +66,10 @@ Combined with the way of the head, the"lion" element is extracted, and the basic
 {{< imgCircleList  image_list_var="circle_image_list" height="200" width="300"  translateZ="260"   >}}
 
 
+<div class=" circle-img-flat-list">
+{{< imgList image_list_var="circle_image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+</div>
+
+
 {{< imgList image_list_var="other_image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 

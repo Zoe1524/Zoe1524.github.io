@@ -53,3 +53,8 @@ By telling stories and providing relevant and important information, the whole p
 #### Animation
 
 {{< imgCircleList   height="250" width="380"  translateZ="200"   >}}
+
+
+<div class=" circle-img-flat-list">
+{{< imgList image_list_var="image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+</div>

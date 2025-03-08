@@ -71,6 +71,10 @@ The culture of the zodiac has a long history, and in the long history,it carries
 {{< imgCircleList   height="250" width="185"  translateZ="320"   >}}
 
 
+<div class="zodiac-list-item circle-img-flat-list">
+{{< imgList image_list_var="image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+</div>
+
 
 ### &nbsp;
 ### Other paintings

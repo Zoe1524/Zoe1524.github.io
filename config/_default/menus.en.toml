@@ -76,10 +76,10 @@ weight = 50
 
 
 # footer menu
-[[footer]]
-name = "Home"
-url = "/"
-weight = 1
+#[[footer]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
 [[footer]]
 name = "About"
@@ -90,3 +90,18 @@ weight = 2
 name = "Work"
 url = "/work"
 weight = 3
+
+[[footer]]
+name = "Animation"
+url = "/animation"
+weight = 5
+
+[[footer]]
+name = "3D"
+url = "/3d"
+weight = 8
+
+[[footer]]
+name = "Character"
+url = "/character"
+weight = 12
