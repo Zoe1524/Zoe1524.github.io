@@ -20,84 +20,288 @@
 
 
 
- &lt;div
- class=" gallery 
- zoomable
- ">
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class="circle-3d-images-wrap"
+ style=" height: 420px; "
+>
+
+ &lt;div class="gallery zoomable circle-3d-images"
+ style="width: 400px; height: 210px; ">
  
  
 
- &lt;div class="gallery-item" data-i="false">
  
- &lt;a href="https://zoe1524.github.io/images/zoe/3d/2.png" style="display: block;" class="glightbox">
+ 
+
+ 
+
+ 
+
+ &lt;div class="gallery-item img-circle-item"
+ style="transform: rotateY(0deg) translateZ(130px);
+ background-color: #000;"
+ >
+
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/1.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://zoe1524.github.io/images/zoe/3d/1.png"
+ class="img"
+ style="margin: 0;"
+ alt=""
+
+ onerror="this.onerror='null';this.src=''" />
+ &lt;/a>
+ 
+
+ &lt;/div>
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ &lt;div class="gallery-item img-circle-item"
+ style="transform: rotateY(120deg) translateZ(130px);
+ background-color: #000;"
+ >
+
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/2.png"
+ style="display: block;"
+ class="glightbox">
  &lt;img
  loading="lazy"
  src="https://zoe1524.github.io/images/zoe/3d/2.png"
  class="img"
  style="margin: 0;"
- alt="2.png"
- height="400"
- width="400" />
+ alt=""
+
+ onerror="this.onerror='null';this.src=''" />
  &lt;/a>
  
+
  &lt;/div>
  
+
+ 
+ 
+
  
  
  
+
  
+
+ &lt;div class="gallery-item img-circle-item"
+ style="transform: rotateY(240deg) translateZ(130px);
+ background-color: #000;"
+ >
+
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/3.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://zoe1524.github.io/images/zoe/3d/3.png"
+ class="img"
+ style="margin: 0;"
+ alt=""
+
+ onerror="this.onerror='null';this.src=''" />
+ &lt;/a>
+ 
+
+ &lt;/div>
+ 
+
+
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class=" circle-img-flat-list">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class="gallery zoomable">
  
  
  
  
 
- &lt;div class="gallery-item" data-i="false">
+
+
+
+
+
+
+
+
+
+
+
+
+
  
- &lt;a href="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%201_011.png" style="display: block;" class="glightbox">
+
+
+
+ 
+
+ &lt;div class="gallery-item">
+
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/1.png"
+ style="display: block;"
+ class="glightbox">
  &lt;img
  loading="lazy"
- src="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%201_011.png"
+ src="https://zoe1524.github.io/images/zoe/3d/1.png"
  class="img"
  style="margin: 0;"
- alt="tbrender_Camera 1_011.png"
- height="400"
- width="400" />
+ alt=""
+
+ onerror="this.onerror='null';this.src=''" />
  &lt;/a>
- 
+ &lt;div class="character-desc">&lt;/div>
+
  &lt;/div>
- 
- 
- 
- 
- 
  
  
  
  
 
- &lt;div class="gallery-item" data-i="false">
+
+
+
+
+
+
+
+
+
+
+
+
+
  
- &lt;a href="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%202_009.png" style="display: block;" class="glightbox">
+
+
+
+ 
+
+ &lt;div class="gallery-item">
+
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/2.png"
+ style="display: block;"
+ class="glightbox">
  &lt;img
  loading="lazy"
- src="https://zoe1524.github.io/images/zoe/3d/tbrender_Camera%202_009.png"
+ src="https://zoe1524.github.io/images/zoe/3d/2.png"
  class="img"
  style="margin: 0;"
- alt="tbrender_Camera 2_009.png"
- height="400"
- width="400" />
+ alt=""
+
+ onerror="this.onerror='null';this.src=''" />
  &lt;/a>
- 
+ &lt;div class="character-desc">&lt;/div>
+
  &lt;/div>
  
  
  
- &lt;/div></description></item><item><title>Animation</title><link>https://zoe1524.github.io/animation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/animation/</guid><description>&lt;h4 id="animation">Animation&lt;/h4>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ &lt;div class="gallery-item">
+
+ &lt;a href="https://zoe1524.github.io/images/zoe/3d/3.png"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="https://zoe1524.github.io/images/zoe/3d/3.png"
+ class="img"
+ style="margin: 0;"
+ alt=""
+
+ onerror="this.onerror='null';this.src=''" />
+ &lt;/a>
+ &lt;div class="character-desc">&lt;/div>
+
+ &lt;/div>
+ 
+&lt;/div>
+&lt;/div></description></item><item><title>Animation</title><link>https://zoe1524.github.io/animation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zoe1524.github.io/animation/</guid><description>&lt;h4 id="animation">Animation&lt;/h4>
 
 
 
