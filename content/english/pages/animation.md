@@ -26,6 +26,20 @@ image_list:
 
 ---
 
+
+
+#### Animation
+
+{{< imgCircleList   height="250" width="380"  translateZ="200"   >}}
+
+
+<div class=" circle-img-flat-list">
+{{< imgList image_list_var="image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+</div>
+
+
+<hr>
+
 #### Protect the ocean
 
 Design concept
@@ -48,13 +62,4 @@ By telling stories and providing relevant and important information, the whole p
 {{< video src="images/zoe/animation/outcome.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
 
 
-<hr>
 
-#### Animation
-
-{{< imgCircleList   height="250" width="380"  translateZ="200"   >}}
-
-
-<div class=" circle-img-flat-list">
-{{< imgList image_list_var="image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-</div>

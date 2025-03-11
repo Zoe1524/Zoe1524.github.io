@@ -60,15 +60,17 @@ Design concept:
 Combined with the way of the head, the"lion" element is extracted, and the basic form composition law of the shape is Analyzed. Taking the lion head as the basic component of the modern IP image conforms to people's general understanding of the lion. Using the "borrower" lion IP image to "cute" redesign,the lion dance shape and the modern public image together, So that the ilon closer to the Public litestyle.
 
 
-{{< imgList image_list_var="image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-
 {{< imgCircleList  image_list_var="circle_image_list" height="200" width="300"  translateZ="260"   >}}
 
 
 <div class=" circle-img-flat-list">
 {{< imgList image_list_var="circle_image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 </div>
+
+
+
+{{< imgList image_list_var="image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
 
 
 {{< imgList image_list_var="other_image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
