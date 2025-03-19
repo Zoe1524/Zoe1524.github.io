@@ -78,7 +78,7 @@ In addition to the bright basic color with black advanced and create a strong de
 
 
 ### &nbsp;
-### Other paintings
+### Other Poster
 
 {{< gallery dir="images/zoe/work3" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
