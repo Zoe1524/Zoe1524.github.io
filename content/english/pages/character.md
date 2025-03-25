@@ -1,5 +1,5 @@
 ---
-title: "Lion Dance bo"
+title: "Character"
 # meta title
 meta_title: ""
 # meta description
