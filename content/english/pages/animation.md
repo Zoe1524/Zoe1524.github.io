@@ -40,7 +40,7 @@ image_list:
 
 <hr>
 
-#### Protect the ocean
+#### Protect the Ocean
 
 Design concept
 
