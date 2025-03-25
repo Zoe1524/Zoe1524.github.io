@@ -62,7 +62,7 @@
 
  &lt;div class="gallery-item img-circle-item"
  style="transform: rotateY(0deg) translateZ(130px);
- background-color: #000;"
+ "
  >
 
  &lt;a href="https://zoe1524.github.io/images/zoe/3d/1.png"
@@ -91,7 +91,7 @@
 
  &lt;div class="gallery-item img-circle-item"
  style="transform: rotateY(120deg) translateZ(130px);
- background-color: #000;"
+ "
  >
 
  &lt;a href="https://zoe1524.github.io/images/zoe/3d/2.png"
@@ -122,7 +122,7 @@
 
  &lt;div class="gallery-item img-circle-item"
  style="transform: rotateY(240deg) translateZ(130px);
- background-color: #000;"
+ "
  >
 
  &lt;a href="https://zoe1524.github.io/images/zoe/3d/3.png"
@@ -365,7 +365,7 @@
 
  &lt;div class="gallery-item img-circle-item"
  style="transform: rotateY(0deg) translateZ(200px);
- background-color: #000;"
+ "
  >
 
  &lt;a href="https://zoe1524.github.io/images/zoe/img-circle/an1.jpg"
@@ -394,7 +394,7 @@
 
  &lt;div class="gallery-item img-circle-item"
  style="transform: rotateY(90deg) translateZ(200px);
- background-color: #000;"
+ "
  >
 
  &lt;a href="https://zoe1524.github.io/images/zoe/img-circle/an2.jpg"
@@ -423,7 +423,7 @@
 
  &lt;div class="gallery-item img-circle-item"
  style="transform: rotateY(180deg) translateZ(200px);
- background-color: #000;"
+ "
  >
 
  &lt;a href="https://zoe1524.github.io/images/zoe/img-circle/an3.jpg"
@@ -454,7 +454,7 @@
 
  &lt;div class="gallery-item img-circle-item"
  style="transform: rotateY(270deg) translateZ(200px);
- background-color: #000;"
+ "
  >
 
  &lt;a href="https://zoe1524.github.io/images/zoe/img-circle/an4.jpg"
