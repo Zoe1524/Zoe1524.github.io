@@ -31,3 +31,6 @@
     /*background-color: unset !important;*/
 }
 
+.work-bg-image {
+    background-image: url("/images/zoe/img-circle/bgs/bg1.jpg") !important;
+}

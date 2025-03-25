@@ -7,6 +7,9 @@ description: "This is my work"
 # save as draft
 draft: false
 
+layout: "work"
+
+
 image_list:
   
   - path: "images/zoe/work2/1-shu.jpg"
@@ -46,6 +49,31 @@ image_list:
     title: ""
    
 
+
+w4_creative_image_list:
+
+  - path: "images/zoe/work4/1.jpg"
+    title: ""
+
+  - path: "images/zoe/work4/2.jpg"
+    title: ""
+
+  - path: "images/zoe/work4/3.jpg"
+    title: ""
+
+  - path: "images/zoe/work4/4.jpg"
+    title: ""
+
+  - path: "images/zoe/work4/5.jpg"
+    title: ""
+
+  - path: "images/zoe/work4/6.jpg"
+    title: ""
+
+
+
+
+
 ---
 
 
@@ -84,7 +112,11 @@ In addition to the bright basic color with black advanced and create a strong de
 
 ### Creative Design
 
-{{< gallery dir="images/zoe/work 4" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+{{< imgCircleList image_list_var="w4_creative_image_list"  height="220" width="310"  translateZ="270"   >}}
+
+
+{{< gallery dir="images/zoe/work4" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
 ### Font Design
