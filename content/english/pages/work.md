@@ -47,24 +47,7 @@ image_list:
    
 
 ---
-image_list2:
-  - path: "images/zoe/work 4/0a30cec98f5bb29ecf83a44a4953c8a.jpg"
-    title: ""
 
-  - path: "images/zoe/work 4/1f5893995aa0044493a9baa3b09943e.jpg"
-    title: ""
-
-  - path: "images/zoe/work 4/3eff835b295ed0d080ac4576cabdc5f.jpg"
-    title: ""
- 
-  - path: "images/zoe/work 4/59a81c3b4cdce3d8172c13d6afa30ab.jpg"
-    title: ""
- 
-  - path: "images/zoe/work 4/88d863ff3ce124f2ef9fa97d14037f4.jpg"
-    title: ""
- 
-  - path: "images/zoe/work 4/c387b8645eb811804796c079ee37ad2.jpg"
-    title: ""
 
 ### Zodiac
 
@@ -101,12 +84,7 @@ In addition to the bright basic color with black advanced and create a strong de
 
 ### Creative Design
 
-{{< imgCircleList   height="250" width="185"  translateZ="320"   >}}
-
-
-<div class="zodiac-list-item circle-img-flat-list">
-{{< imgList image_list2_var="image_list" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-</div>
+{{< gallery dir="images/zoe/work 4" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
 ### Font Design
