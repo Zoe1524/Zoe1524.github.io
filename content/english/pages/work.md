@@ -88,3 +88,5 @@ In addition to the bright basic color with black advanced and create a strong de
 {{< gallery dir="images/zoe/work 4" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
+### Font Design
+{{< gallery dir="images/zoe/work 5" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
